@@ -2,6 +2,11 @@
 
 This project is a frontend task developed using **Next.js** and **Tailwind CSS**. It consists of two celebration pop-ups triggered upon reaching specific milestones on the website.
 
+## Author
+
+**Hunain Parekh**  
+Email: hunainparekh85@gmail.com
+
 ## Approach
 
 The application has two main components:
@@ -43,8 +48,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd frontend-test
+   git clone https://github.com/hunain-parekh/infinite8-frontend-test.git
+   cd infinite8-frontend-test
 
 2. **Install the dependencies**:
     ```bash
